@@ -1,1 +1,10 @@
-..
+body{ background: black; }
+thead { 
+  background: #555555; 
+  color: purple; 
+  font-weight: bold; 
+} 
+form label{ 
+  display: block; 
+  font-size: 25px; 
+} td{ background:white; border:1px solid #000000; border-color: black; }
