@@ -1,7 +1,7 @@
-body{ background: aqua; }
+body{ background: black; }
 thead { 
-  background: #555555; 
-  color: purple; 
+  background: #000000; 
+  color: aqua; 
   font-weight: bold; 
 } 
 form label{ 
